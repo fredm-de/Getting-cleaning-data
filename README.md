@@ -26,4 +26,4 @@ Finally the script creates a new tidy dataset **submit.csv**, containing the mea
 
 About the Code Book
 -------------------
-CodeBook.md gives informations about the data and variables in the result dataset submit.csv.
+CodeBook.md gives informations about the data and variables in the result dataset submit.txt.
