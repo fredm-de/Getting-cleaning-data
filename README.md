@@ -12,7 +12,7 @@ This repository contains
 - The ReadMe ReadMe-Files ReadMe.md
 - The CodeBook-File CodeBook.md
 - The R-Script run_analysis.R
-- The resulting dataset submit.csv
+- The resulting dataset submit.txt
 
 The raw data that this analysis is based on are obtained from the UCI Machine Learning Repository. The dataset used is  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
