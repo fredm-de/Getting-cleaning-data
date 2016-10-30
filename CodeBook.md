@@ -1,5 +1,5 @@
 # Code Book
-This code book summarizes the data fields of the result data set **submit.csv** 
+This code book summarizes the data fields of the result data set **submit.txt** 
 
 ## Identifiers
 - subject - ID of the tested subject
